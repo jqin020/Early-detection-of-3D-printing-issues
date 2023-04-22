@@ -1,4 +1,4 @@
-# Code of competition Early-detection-of-3D-printing-issues
+# Code of Kaggle competition Early-detection-of-3D-printing-issues
 This code is built from [1]. In order to run this code, a couple of steps are needed:
 1. pip install -r 'requirements.txt'
 2. unzip image dataset and put it into 'dataset/images'
